@@ -1,10 +1,7 @@
 # Tugas 2 JS Dasar - Skivul #Tech4Impact Batch 4 Learning Path Front-End
 
--
-- ***
+## Nama : Adidtiya Putra Caniago
 
-## Beberapa Soal yang tersedia
+## Learning Path : Front End
 
-:heavy_check_mark: \
-:heavy_check_mark: \
-:heavy_check_mark: \
+## Group : 3
